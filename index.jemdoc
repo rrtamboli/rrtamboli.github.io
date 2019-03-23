@@ -1,11 +1,16 @@
 # jemdoc: menu{MENU}{example.html}
 = Roopak R. Tamboli
 
-- Early Stage Researcher at [https://www.holografika.com/ Holografika Kft.], under the [http://www.qoenet-itn.eu/ QoE-NET project] \[01\/2018 - 12\/2018\].
 - PhD Student at the [https://ee.iith.ac.in Department of Electrical Engineering], [https://www.iith.ac.in Indian Institute of Technology Hyderabad] \[01\/2018 - ].
+- Early Stage Researcher at [https://www.holografika.com/ Holografika Kft.], under the [http://www.qoenet-itn.eu/ QoE-NET project] \[01\/2018 - 12\/2018\].
 
+== Education
+. Indian Institute of Technology Hyderabad
+.. PhD
+.. MTech
+. Walchand College of Engineering Sangli
+.. Bachelor of Enginering
 
-== Example
 Here are some *text* /features/. I could [http://cvxmod.net/ link somewhere] or insert a raw link to another page like [download.html]. I could use +monospace+, too.
 
 I could write special characters like \#, \$ and \+ by just using a backslash (\\) in front of those characters. Or automatically detect an [www@jemnz.com email address].
