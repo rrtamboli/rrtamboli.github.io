@@ -1,58 +1,8 @@
-# jemdoc: menu{MENU}{example.html}
+# jemdoc: menu{MENU}{index.html}
 = Roopak R. Tamboli
 
-- PhD Student at the [https://ee.iith.ac.in Department of Electrical Engineering], [https://www.iith.ac.in Indian Institute of Technology Hyderabad] \[01\/2018 - ].
-- Early Stage Researcher at [https://www.holografika.com/ Holografika Kft.], under the [http://www.qoenet-itn.eu/ QoE-NET project] \[01\/2018 - 12\/2018\].
+PhD Student at the Department of Electrical Engineering, Indian Institute of Technology Hyderabad.\n
+Email: +ee13p0008 at iith dot ac dot in+
 
-== Education
-. Indian Institute of Technology Hyderabad
-.. PhD
-.. MTech
-. Walchand College of Engineering Sangli
-.. Bachelor of Enginering
-
-Here are some *text* /features/. I could [http://cvxmod.net/ link somewhere] or insert a raw link to another page like [download.html]. I could use +monospace+, too.
-
-I could write special characters like \#, \$ and \+ by just using a backslash (\\) in front of those characters. Or automatically detect an [www@jemnz.com email address].
-
-~~~
-Save the file as +index.jemdoc+, say, and simply call +jemdoc index+ (after [download.html downloading jemdoc], of course).
-~~~
-
-== Next bit, next heading level two
-=== Getting into level three now
-
-Why not use a list 
-- to explain the way you do lists?
-- to demonstrate how a line\n break might work?
-
-Or perhaps a 
-. Multilevel
-  .. Numbered list
-  .. Is more
-. Useful?
-
-: {Definition} lists, especially when there are many definitions 
-: {Can be useful} for explaining things
-
-== Finally, a few more blocks
-This `section' features "smart quotes".
-
-~~~
-{Simple block}
-This is a simple text block, with a title. Notice how the previous line has only one set of braces (\{\}).
-~~~
-
-~~~
-{Interactive Python listing}{pyint}
->>> print 'Interactive Python code.'
-'Interactive Python code.'
-~~~
-
-~~~
-{}{}
-Plain code block with no title.
-~~~
-
-You might need 2--3 different-sized dashes---they can be useful. Now we're done!
+[https://scholar.google.co.in/citations?user=LAoUNoUAAAAJ&hl=en Google Scholar]
 
