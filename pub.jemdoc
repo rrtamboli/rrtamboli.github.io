@@ -1,7 +1,14 @@
 # jemdoc: menu{MENU}{pub.html}
 = Publications
 
-([https://scholar.google.co.in/citations?user=LAoUNoUAAAAJ&hl=en Google Scholar])
+~~~
+{Summary}
+Journal articles: , Conference papers: \n
+h-index: , i10 index: , No. of citations:  (Self citations: )\n
+Links: [https://scholar.google.co.in/citations?user=LAoUNoUAAAAJ&hl=en Google Scholar] \M [https://www.semanticscholar.org/search?q=Roopak%20Tamboli&sort=year Semantic Scholar]
+~~~
+
+
 
 == Journal Articles
 
