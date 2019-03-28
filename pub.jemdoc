@@ -1,10 +1,11 @@
 # jemdoc: menu{MENU}{pub.html}
-= Publications\n\n
+= Publications
+
+~~~
 Journal articles: 3, Conference papers: 19\n
 h-index: 3, i10 index: 1, No. of citations: 50 (Self citations: )\n
 
-~~~
-+[https://scholar.google.co.in/citations?user=LAoUNoUAAAAJ&hl=en Google Scholar] | [https://www.semanticscholar.org/search?q=Roopak%20Tamboli&sort=year Semantic Scholar] | [https://www.researchgate.net/profile/Roopak_Tamboli ResearchGate] | [https://orcid.org/0000-0002-5123-6422 ORCiD] | [https://www.scopus.com/authid/detail.uri?authorId=55625503000 Scopus] | [http://publicationslist.org/roopak.tamboli publicationslist.org] | [http://www.researcherid.com/rid/R-1830-2017 ResearcherID] | [https://dblp.uni-trier.de/pers/hd/t/Tamboli:Roopak dblp]+
+[https://scholar.google.co.in/citations?user=LAoUNoUAAAAJ&hl=en Google Scholar] | [https://www.semanticscholar.org/search?q=Roopak%20Tamboli&sort=year Semantic Scholar] | [https://www.researchgate.net/profile/Roopak_Tamboli ResearchGate] | [https://orcid.org/0000-0002-5123-6422 ORCiD] | [https://www.scopus.com/authid/detail.uri?authorId=55625503000 Scopus] | [http://publicationslist.org/roopak.tamboli publicationslist.org] | [http://www.researcherid.com/rid/R-1830-2017 ResearcherID] | [https://dblp.uni-trier.de/pers/hd/t/Tamboli:Roopak dblp]
 ~~~
 
 == Journal Articles
@@ -73,7 +74,6 @@ h-index: 3, i10 index: 1, No. of citations: 50 (Self citations: )\n
 === 2012
 
 - D.~S.~S.~Reddy, *R.~R.~Tamboli* and S.~Jana,\n"[https://doi.org/10.1109/BMEiCon.2012.6465510 Universal nonuniform sampling of ecg signals: opportunities and obstacles],"\nThe 5th Biomedical Engineering International Conference, Ubon Ratchathani, pp.~1–5, 2012.
-
 
 == Conference Presentations
 
