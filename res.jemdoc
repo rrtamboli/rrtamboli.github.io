@@ -1,4 +1,14 @@
 # jemdoc: menu{MENU}{pub.html}
 = Research
 
-Under construction
+== Doctoral
+- Multi-view content generation using multi-camera array, turntable arrangement and computer graphics software; Estimiation of depth maps and view synthesis.
+- Camera autocalibration, Euclidean 3D reconstruction from multiple 2D views.
+- 3D reconstruction of oculofacial region and surface reconstruction to assist surgical planning.
+- Subjective and objective methods to assess quality of perceptual experience on projection-based light-field displays.
+
+== Masters
+- Non-uniform sampling and sparse recovery of ECG signals.
+- Low-complexity compact representation of ECG signals.
+
+.
