@@ -1,44 +1,18 @@
-# jemdoc: menu{MENU}{pub.html}
+# jemdoc: menu{MENU}{conf.html}
 \n
-= Publications
+= Conference Publications
 
-== Overview
- - Journal articles: 3, Conference papers: 21, Conference presentations: 5\n
-h-index: 6, i10 index: 2, No. of citations: 137 (Self citations: -)
-- [https://docs.google.com/spreadsheets/d/1upfezOm4h6HbIqG8YTI8yZCFTiR-aTALa1UtKCl5ouE/edit?usp=sharing A spreasheet of all publications]
-- [https://scholar.google.com/citations?user=UZPsXtgAAAAJ&hl=en Google Scholar] | [https://www.semanticscholar.org/search?q=Roopak%20Tamboli&sort=year Semantic Scholar] | [https://www.researchgate.net/profile/Roopak_Tamboli ResearchGate] | [https://orcid.org/0000-0002-5123-6422 ORCiD]\n[https://www.scopus.com/authid/detail.uri?authorId=55625503000 Scopus] | [http://publicationslist.org/roopak.tamboli publicationslist.org] | [http://www.researcherid.com/rid/R-1830-2017 ResearcherID] | [https://dblp.uni-trier.de/pid/158/8661.html dblp] | [https://publons.com/researcher/1478927/roopak-tamboli/ Publons]
-
-== Theses
-
-- "Multiview 3D Content:  Acquisition,Reconstruction, Immersive Visualizationand Quality Assessment"\n PhD thesis, Indian Institute of Technology Hyderabad, 2020.
-
-- [http://raiith.iith.ac.in/1329/ "Minimal Representation of Electrocardiogram Signals: Towards Low-Cost Telecardiology"]\n Masters thesis, Indian Institute of Technology Hyderabad, 2015.
-
-== Journal Articles
-
-=== 2019
-
-- A.~Cserkaszky, P.~A.~Kara, *R.~R.~Tamboli*, A.~Barsi, M.~G.~Martini, L.~Bokor, T.~Balogh,\n"[https://doi.org/10.1002/jsid.762 Angularly-continuous light-field format: concept, implementation and evaluation],"\n [https://onlinelibrary.wiley.com/journal/19383657 Journal of the Society for the Information Display], vol.~27, no.~7 pp.~442-461, 2019.
-
-- P.~A.~Kara, *R.~R.~Tamboli*, O.~Doronin, A.~Cserkaszky, A.~Barsi, Zs.~Nagy, M.~G.~Martini, A.~Simon\n"[https://doi.org/10.1080/15980316.2019.1606120 The key performance indicators of projection-based light field visualization],"\n [https://www.tandfonline.com/loi/tjid20 Journal of Information Display], vol.~20, no.~2 pp.~81-93, 2019.
-
-=== 2016
-
-- *R.~R.~Tamboli*, B.~Appina, S.~S.~Channappayya, S.~Jana,\n"[https://doi.org/10.1016/j.image.2016.05.010 Super-multiview content with high angular resolution: 3d quality assessment on horizontal-parallax lightfield display],"\n[https://www.journals.elsevier.com/signal-processing-image-communication Signal Processing: Image Communication], vol.~47, pp.~42–55, 2016.
-
-== Conference Publications
-
-=== 2021
+== 2021
 
 - P.~A.~Kara, A.~Barsi, *R.~R.~Tamboli*, M.~Guindy, M.~G.~Martini, T.~Balogh, A.~Simon,\n "[https://doi.org/10.1117/12.2594266 Recommendations on the viewing distance of light field displays]",\n SPIE Digital Optical Technologies, vol.~11788, 2021.
 
-=== 2019
+== 2019
 
 - P.~A.~Kara, *R.~R.~Tamboli*, A.~Cserkaszky, A.~Barsi, A.~Simon, A.~Kusz, L.~Bokor, M.~G.~Martini,\n"[https://doi.org/10.1109/IC3D48390.2019.8975997 Objective and Subjective Assessment of Binocular Disparity for Projection-Based Light Field Displays]",\n International Conference on 3D Immersion, Brussels, pp.~1-8, 2019.
 
 - *R.~R.~Tamboli*, V. Sandu, S. Nerasala, A. Richhariya, K. K. Vupparaboina, S. Jana,\n"[https://doi.org/10.1109/GHTC46095.2019.9033088 Novel Hybrid Teleophthalmology: Technological Case for Oculofacial Surgery]," \n IEEE Global Humanitarian Technology Conference (GHTC), Seattle, pp.~1-8, 2019. 
 
-=== 2018
+== 2018
 
 - P.~A.~Kara, *R.~R.~Tamboli*, A.~Cserkaszky, A.~Barsi, M.~G.~Martini, Laszlo Bokor,\n"[https://doi.org/10.1109/IC3D.2018.8657881 The viewing conditions of light-field video for subjective quality assessment],"\nInternational Conference on 3D Immersion, Brussels, pp.~1-8, 2018.
 
@@ -62,32 +36,32 @@ h-index: 6, i10 index: 2, No. of citations: 137 (Self citations: -)
 
 - *R.~R.~Tamboli*, P.~A.~Kara, B.~Appina, M.~G.~Martini, S.~S.~Channappayya, S.~Jana,\n"[https://doi.org/10.1109/QoMEX.2018.8463421 Effect of primitive features of content on perceived quality of light field visualization],"\nTenth International Conference on Quality of Multimedia Experience (QoMEX), Cagliari, pp.~1-3, 2018.
 
-=== 2017
+== 2017
 
 - *R.~R.~Tamboli*, B.~Appina, S.~S.~Channappayya, S.~Jana,\n"[https://doi.org/10.1109/IC3D.2017.8251906 Achieving high angular resolution via view synthesis: quality assessment of 3d content on super multiview lightfield display],"\nInternational Conference on 3D Immersion (IC3D), Brussels, pp.~1–8, 2017.
 
-=== 2016
+== 2016
 
 - K.~K.~Vupparaboina, *R.~R.~Tamboli*, M.~S.~Reddy, A.~Richhariya, M.~Naik and S.~Jana,\n"[https://doi.org/10.1109/INDICON.2016.7839156 Oculofacial surgical planning: true-to-scale 3d feature quantification using multicamera network],"\nIEEE Annual India Conference (INDICON), Bangalore, pp.~1–6, 2016.
 
 - *R.~R.~Tamboli* and S.~Jana,\n"[https://ieeexplore.ieee.org/document/7868699 Telecardiology under resource constraint: low-complexity compact representation of ecg],”\nComputing in Cardiology, Vancouver, BC, pp.~141–144, 2016.
 
-=== 2015
+== 2015
 
 - K.~K.~Vupparaboina, *R.~R.~Tamboli*, P.~M.~Shenu and S.~Jana,\n"[https://doi.org/10.1109/NCC.2015.7084929 Laser-based detection and depth estimation of dry and water-filled potholes: a geometric approach],"\nTwenty first National Conference on Communications (NCC), Mumbai, pp.~1–6, 2015.
 
 
-=== 2014
+== 2014
 
 - *R.~R.~Tamboli*, K.~K.~Vupparaboina, J.~Reddy, S.~Jana and S.~Channappayya,\n"[https://doi.org/10.1109/IC3D.2014.7032603 A subjective evaluation of true 3d images],"\nInternational Conference on 3D Imaging (IC3D), Liege, pp.~1–8, 2014.
 
-=== 2013
+== 2013
 
 - *R.~R.~Tamboli*, M.~A.~Savkoor, S.~Jana and R.~Manthalkar,\n"[[https://ieeexplore.ieee.org/document/6713418 On the sparsest representation of electrocardiograms],”\n[http://i3a.unizar.es/cinc2013/ Computing in Cardiology], Zaragoza, pp.~479–482, 2013.
 
 - *R.~R.~Tamboli*, D.~S.~S.~Reddy and S.~Jana,\n"[https://doi.org/10.1109/ISPCC.2013.6663389 A hybrid fourier/wavelet technique for improved ecg signal approximation],"\n[http://www.juit.ac.in/ispcc_2013/ IEEE International Conference on Signal Processing, Computing and Control (ISPCC)], Solan, pp.~1–6, 2013.
 
-=== 2012
+== 2012
 
 - D.~S.~S.~Reddy, *R.~R.~Tamboli* and S.~Jana,\n"[https://doi.org/10.1109/BMEiCon.2012.6465510 Universal nonuniform sampling of ecg signals: opportunities and obstacles],"\nThe 5th Biomedical Engineering International Conference, Ubon Ratchathani, pp.~1–5, 2012.
 
