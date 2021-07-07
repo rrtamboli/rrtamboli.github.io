@@ -5,3 +5,5 @@ python jemdoc.py overview.jemdoc
 python jemdoc.py jrnl.jemdoc
 python jemdoc.py conf.jemdoc
 python jemdoc.py res.jemdoc
+python jemdoc.py service.jemdoc
+python jemdoc.py outreach.jemdoc
