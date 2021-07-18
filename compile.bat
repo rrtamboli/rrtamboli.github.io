@@ -1,9 +1,9 @@
-python jemdoc.py index.jemdoc
-python jemdoc.py exp.jemdoc
-python jemdoc.py edu.jemdoc
-python jemdoc.py overview.jemdoc
-python jemdoc.py jrnl.jemdoc
-python jemdoc.py conf.jemdoc
-python jemdoc.py res.jemdoc
-python jemdoc.py service.jemdoc
-python jemdoc.py outreach.jemdoc
+py -2 jemdoc.py index.jemdoc
+py -2 jemdoc.py exp.jemdoc
+py -2 jemdoc.py edu.jemdoc
+py -2 jemdoc.py overview.jemdoc
+py -2 jemdoc.py jrnl.jemdoc
+py -2 jemdoc.py conf.jemdoc
+py -2 jemdoc.py res.jemdoc
+py -2 jemdoc.py service.jemdoc
+py -2 jemdoc.py outreach.jemdoc
